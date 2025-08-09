@@ -1,1 +1,2 @@
-This line was changed in the main branch.
+
+This line combines changes from main and feature branch.
